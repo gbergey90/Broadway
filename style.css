@@ -1,8 +1,9 @@
 body {
   font-family: helvetica, sans-serif;
 }
-h1, h2, h3 {
+h1, h2, h3, p {
   font-weight: bold;
+  text-align: center;
 }
 .hero {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
@@ -35,4 +36,5 @@ font-size: 23px;
   background-color: dimgray;
   font-size: 11px;
   color: white;
+  text-align: left;
 }
