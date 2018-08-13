@@ -5,8 +5,7 @@ h1, h2, h3 {
   font-weight: bold;
 }
 .hero {
-  background-image:
-  url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png" alt="flatiron building'
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png' alt="flatiron building"
 );
 text-align: center;
 color: white;
@@ -31,10 +30,6 @@ color: white;
   font-size: 14px;
 }
 .hero h2 {
-  background-image:
-url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-text-align: center;
-color-white;
 font-size: 23px;
 }
 
